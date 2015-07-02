@@ -5,7 +5,7 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "bugs": "https://github.com/rechtar/cjsx-loader/issues",
   "dependencies": {
-    "coffee-react-transform": "rechtar/coffee-react-transform"
+    "coffee-react-transform": "rechtar/coffee-react-transform#publish"
   },
   "keywords": [
     "react",
